@@ -773,6 +773,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 
 ### Audio Streaming
 
+  * [Compactd](https://github.com/compactd/compactd) - A web based audio/video streaming application. `MIT` `NodeJS`
   * [Ampache](http://ampache.org/) - A web based audio/video streaming application. ([Demo](http://play.dogmazic.net/), [Source Code](https://github.com/ampache/ampache)) `AGPLv3` `PHP`
   * [CherryMusic](http://www.fomori.org/cherrymusic/) - Minimalistic Web-Mediaplayer. ([Source Code](https://github.com/devsnd/cherrymusic)) `GPLv3` `Python`
   * [cloudtunes](https://github.com/jkbrzt/cloudtunes) `⚠` - Web-based music player for the cloud. `MIT` `Python`
